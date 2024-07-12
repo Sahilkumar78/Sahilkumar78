@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sahil Kumar</h1>
+<h1 align="center">Hi 👋, I'm Sahil</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 - 🌱 I’m currently learning **Typescript**
